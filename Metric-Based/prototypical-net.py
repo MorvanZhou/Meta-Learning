@@ -195,6 +195,7 @@ def eval_compare(src, tgts):
     plt.show()
 
 
+# train()
 eval_compare(
     "../data/omniglot/images_evaluation/Atemayar_Qelisayer/character07/0991_06.png",
     [
